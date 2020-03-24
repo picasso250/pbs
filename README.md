@@ -3,4 +3,4 @@ piratebay search in console
 
 ## Usage
 
-python pbs.py "rick morty"
+    python pbs.py "rick morty"
